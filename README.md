@@ -1,3 +1,3 @@
-# flutter_app
+# A simple app to generate, list and save your favorite words
 
-A new Flutter project.
+A quick lesson I learned at https://flutter.dev/learn
